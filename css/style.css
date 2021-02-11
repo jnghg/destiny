@@ -1,0 +1,455 @@
+body {
+    color: #727272;
+    font-family:sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+}
+
+h1:nth-of-type(1) {
+    font-family: serif;
+    font-size: 35px;
+    line-height: 50px;
+    opacity: 0.8;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: 400;
+    color: #fff;
+}
+
+h1,
+h2,
+h3 {
+    margin: 0 0 25px;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    line-height: 40px;
+}
+
+#main {
+    position: relative;
+    width: 100%;
+}
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+}
+
+#container2 {
+    position: relative;
+}
+
+a {
+    text-decoration: none;
+    color: grey;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+}
+
+/* header*/
+
+header {
+    top: 0;
+    margin: 0;
+    height: 100vh;
+    max-height: 100vh;
+    background: url(../images/main_img.png);
+    margin: 0 auto;
+    background-position: center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    text-align: center;
+    color: #fff;
+}
+
+#headercontent {
+    padding-top: 55vh;
+}
+
+#headercontent p {
+    font-size: 24px;
+    font-family: sans-serif;
+}
+
+#main img {
+    z-index: 1000;
+    position: absolute;
+    top: 2%;
+    left: 3%;
+}
+
+#container1 {
+    position: relative;
+}
+
+#line {
+    position: absolute;
+    top: 35%;
+    left: 45%;
+}
+
+.one {
+    margin-top: 100px;
+    font-size: 48px;
+    font-family: serif;
+    font-weight: bold;
+    color: #684747;
+}
+
+.two {
+    font-size: 20px;
+    font-family: sans-serif;
+    color: #684747;
+}
+
+.three {
+    font-size: 16px;
+    font-family: sans-serif;
+    color: #684747;
+    margin-bottom: 100px;
+}
+
+#one1 {
+    position: absolute;
+    top: 7%;
+    left: 35%;
+}
+
+#line2 {
+    position: absolute;
+    top: 19%;
+    left: 36%;
+}
+
+#two1 {
+    position: absolute;
+    top: 20%;
+    left: 31%;
+}
+
+#three1 {
+    position: absolute;
+    top: 25%;
+    left: 26%;
+}
+
+#box {
+    width: 300px;
+    height: 150px;
+    background-color: #f2f2f2;
+    position: absolute;
+    top: 38%;
+    left: 30%;
+}
+
+#container2 span {
+    font-size: 18px;
+    color: #684747;
+    text-align: justify;
+    position: absolute;
+}
+
+#container2 span:nth-of-type(1) {
+    top: 41%;
+    left: 33%;
+}
+
+#container2 span:nth-of-type(2) {
+    top: 43%;
+    left: 33%;
+}
+
+#container2 span:nth-of-type(3) {
+    top: 45%;
+    left: 33%;
+}
+
+.container > img:nth-of-type(1) {
+    position: absolute;
+    top: 10%;
+    right: 11%;
+}
+
+.container > img:nth-of-type(2) {
+    position: absolute;
+    top: 62%;
+    left: 10%;
+}
+
+.container > img:nth-of-type(3) {
+    position: absolute;
+    top: 62%;
+    left: 40%;
+}
+
+.container > img:nth-of-type(4) {
+    position: absolute;
+    top: 62%;
+    left: 70%;
+}
+
+#container2 span:nth-of-type(4) {
+    top: 83%;
+    left: 15%;
+}
+
+#container2 span:nth-of-type(5) {
+    top: 83%;
+    left: 45%;
+}
+
+#container2 span:nth-of-type(6) {
+    top: 83%;
+    left: 73%;
+}
+
+#button {
+    width: 80px;
+    height: 40px;
+    line-height: 40px;
+    font-size: 20px;
+    color: #684747;
+    background-color: #f2f2f2;
+    position: absolute;
+    top: 86%;
+    left: 17%;
+    cursor: pointer;
+}
+
+#button2 {
+    width: 80px;
+    height: 40px;
+    line-height: 40px;
+    font-size: 20px;
+    color: #684747;
+    background-color: #f2f2f2;
+    position: absolute;
+    top: 86%;
+    left: 47%;
+    cursor: pointer;
+}
+
+#button3 {
+    width: 80px;
+    height: 40px;
+    line-height: 40px;
+    font-size: 20px;
+    color: #684747;
+    background-color: #f2f2f2;
+    position: absolute;
+    top: 86%;
+    left: 77%;
+    cursor: pointer;
+}
+
+#container3 {
+    position: relative;
+}
+
+#line3 {
+    position: absolute;
+    top: 32%;
+    left: 45.5%;
+}
+
+.container_2 {
+    position: relative;
+}
+
+.container_2{
+    margin-top:500px;
+}
+
+#line4 {
+    position: absolute;
+    top: 32%;
+    left: 44%;
+}
+
+.container_2 > img {
+    position: absolute;
+    top: 40%;
+    left: 19%;
+}
+
+.container_2 > p:nth-of-type(1) {
+    position: absolute;
+    top: 20%;
+    left: 42%;
+}
+
+.container_2 > p:nth-of-type(2) {
+    font-family: serif;
+    font-size: 30px;
+    font-weight: bold;
+    color: #684747;
+    position: absolute;
+    top: 46%;
+    left: 42.5%;
+}
+
+.container_2 > p:nth-of-type(3) {
+    font-family: serif;
+    font-size: 27px;
+    color: #684747;
+    position: absolute;
+    top: 90%;
+    left: 47%;
+    
+}
+
+/* ---------------- contact 양식 ------------------------- */
+
+.container_2 form {
+    position: absolute;
+    top: 55%;
+    left: 33%;
+    background-color: transparent;
+    width: 600px;
+    height:500px;
+}
+
+.container_2 form table {
+    margin: 0 auto;
+    padding-top: 10px;
+}
+
+.container_2 form table tr:nth-of-type(1) {
+    color: #fff;
+    text-align: center;
+}
+
+.container_2 form table tr:nth-of-type(5) {
+    text-align: center;
+}
+
+.container_2 form table tr td input[type="email"],
+.container_2 form table tr td input[type="text"],
+.container_2 form table tr td input[type="tel"] {
+    margin-top: 20px;
+    width: 500px;
+    height:30px;
+}
+
+.container_2 form table tr td input[type="image"] {
+    padding-top: 2px;
+}
+
+.container_2 form table textarea {
+    margin-top: 20px;
+    margin-bottom: 3px;
+    width: 500px;
+    height:100px;
+}
+
+#submit{
+    padding-top:30px;
+}
+
+
+/* Parallax windows*/
+
+.paralaxtext {
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    padding: 200px;
+}
+
+.paralax1 {
+    background: url(../images/img_2.png) no-repeat fixed;
+    margin: 0 auto;
+    padding: 50px 0;
+    background-position: center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    text-align: center;
+    color: #fff;
+}
+
+.paralax2 {
+    background: url(../images/img_4.png) 50% 0 no-repeat fixed;
+    margin: 0 auto;
+    padding: 50px 0;
+    background-position: center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    text-align: center;
+    color: #fff;
+}
+
+/*.paralax3 {
+  background: url(http://arielbeninca.com/Storage/1913098.jpg) 50% 0 no-repeat fixed;
+  margin: 0 auto;
+  padding: 50px 0;
+  background-position: center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  text-align: center;
+  color: #fff;
+}*/
+
+/* mouse anaimtion */
+
+/*.mouse {
+  width: 2px;
+  position: absolute;
+  height: 2px;
+  border-radius: 15px;
+  border: 2px solid white;
+  bottom: 40px;
+  left: 50%;
+  margin-left: -12px;
+}*/
+
+.scroll {
+    display: block;
+    margin: 6px auto;
+    width: 3px;
+    height: 3px;
+    border-radius: 4px;
+    background: white;
+    -webkit-animation-duration: 1s;
+    animation-duration: 1s;
+    -webkit-animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
+    -webkit-animation-name: scroll;
+    animation-name: scroll;
+}
+
+@keyframes scroll {
+    0% {
+        opacity: 1;
+    }
+    100% {
+        opacity: 0;
+        -webkit-transform: translateY(20px);
+        -ms-transform: translateY(20px);
+        transform: translateY(20px);
+    }
+}
+
+@-webkit-keyframes scroll {
+    0% {
+        opacity: 1;
+    }
+    100% {
+        opacity: 0;
+        -webkit-transform: translateY(20px);
+        transform: translateY(20px);
+    }
+}

@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/destiny/static/css/main.3234c602.chunk.css",
+    "main.js": "/destiny/static/js/main.1a47f5ea.chunk.js",
+    "main.js.map": "/destiny/static/js/main.1a47f5ea.chunk.js.map",
+    "runtime-main.js": "/destiny/static/js/runtime-main.f158a856.js",
+    "runtime-main.js.map": "/destiny/static/js/runtime-main.f158a856.js.map",
+    "static/js/2.f4df1b79.chunk.js": "/destiny/static/js/2.f4df1b79.chunk.js",
+    "static/js/2.f4df1b79.chunk.js.map": "/destiny/static/js/2.f4df1b79.chunk.js.map",
+    "static/js/3.0c2a2169.chunk.js": "/destiny/static/js/3.0c2a2169.chunk.js",
+    "static/js/3.0c2a2169.chunk.js.map": "/destiny/static/js/3.0c2a2169.chunk.js.map",
+    "index.html": "/destiny/index.html",
+    "static/css/main.3234c602.chunk.css.map": "/destiny/static/css/main.3234c602.chunk.css.map",
+    "static/js/2.f4df1b79.chunk.js.LICENSE.txt": "/destiny/static/js/2.f4df1b79.chunk.js.LICENSE.txt",
+    "static/media/back.b62ba569.png": "/destiny/static/media/back.b62ba569.png",
+    "static/media/bench.87485695.png": "/destiny/static/media/bench.87485695.png",
+    "static/media/black.4a9ce79f.png": "/destiny/static/media/black.4a9ce79f.png",
+    "static/media/car.e22b9ef7.png": "/destiny/static/media/car.e22b9ef7.png",
+    "static/media/couple.e7874317.png": "/destiny/static/media/couple.e7874317.png",
+    "static/media/hands.b5e2962b.png": "/destiny/static/media/hands.b5e2962b.png",
+    "static/media/img_3.bc3e1b7b.png": "/destiny/static/media/img_3.bc3e1b7b.png",
+    "static/media/img_3_catering.6a542527.png": "/destiny/static/media/img_3_catering.6a542527.png",
+    "static/media/img_3_flower.98f20637.png": "/destiny/static/media/img_3_flower.98f20637.png",
+    "static/media/img_3_interior.4ba9c2ff.png": "/destiny/static/media/img_3_interior.4ba9c2ff.png",
+    "static/media/img_6.a2fcdb4d.png": "/destiny/static/media/img_6.a2fcdb4d.png",
+    "static/media/kiss.20f9dda3.png": "/destiny/static/media/kiss.20f9dda3.png",
+    "static/media/kiss_black.f2478af6.png": "/destiny/static/media/kiss_black.f2478af6.png",
+    "static/media/smog.ffe9716e.png": "/destiny/static/media/smog.ffe9716e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f158a856.js",
+    "static/js/2.f4df1b79.chunk.js",
+    "static/css/main.3234c602.chunk.css",
+    "static/js/main.1a47f5ea.chunk.js"
+  ]
+}
